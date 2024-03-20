@@ -1,8 +1,15 @@
+=> NOTE : Jika tiap mau mengubah sesuatu pastikan pull terlebih dahulu
+
+=> JUKA MAU CEK SEDANG BERADA DI BRANCH MANA : git branch
+
+=> JIKA INGIN PINDAH BRANCH : git checkout <nama_branch>
+
 Kelompok CMD 1
-    Aswangga
-    Dimas
-    Rehan
-    Riza
+
+    -   Aswangga
+    -   Dimas
+    -   Rehan
+    -   Riza
 
 > Fitur TUBES :
 

@@ -4,7 +4,7 @@
 
 => JIKA INGIN PINDAH BRANCH : git checkout <nama_branch>
 
-Kelompok CMD 1
+> Kelompok CMD 1
 
     -   Aswangga
     -   Dimas

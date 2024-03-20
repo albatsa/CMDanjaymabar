@@ -6,8 +6,12 @@ Kelompok CMD 1
 
 > Fitur TUBES :
 
-    D'FrameCraft merupakan sebuah program yang dirancang untuk memudahkan consumen mendapatkan   jasa videografi dan fotografi yang berkualitas. Program ini menyediakan fitur - fitur seperti fitur admin/penjual yang berisi interface untuk penjual sedangkan fitur customer berisi interface costumer yang dimana memungkinkan costumer melihat daftar jasa videografi maupun fotografi sesuai kebutuhan mereka
-    
+    D'FrameCraft merupakan sebuah program yang dirancang untuk memudahkan consumen mendapatkan
+    jasa videografi dan fotografi yang berkualitas. Program ini menyediakan fitur - fitur seperti fitur
+    admin/penjual yang berisi interface untuk penjual sedangkan fitur customer berisi interface
+    costumer yang dimana memungkinkan costumer melihat daftar jasa videografi
+    maupun fotografi sesuai kebutuhan mereka
+
         1. Admin :
         - [x] Login : login akun admin
         - [x] Lihat akun customer dan menghapus akun

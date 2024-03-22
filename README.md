@@ -4,6 +4,8 @@
 
 => JIKA INGIN PINDAH BRANCH : git checkout <nama_branch>
 
+> link flowchart => https://drive.google.com/file/d/1K8xKyoORKs9s1R8ws3mBuf8KxVwwj0X8/view?amp;usp=embed_facebook
+
 > Kelompok CMD 1
 
     -   Aswangga

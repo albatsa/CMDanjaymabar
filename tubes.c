@@ -37,7 +37,5 @@ int main(){
         main();
         break;
     }
-
-    printf("wggang\n");
     
 }
